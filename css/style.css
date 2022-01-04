@@ -37,9 +37,10 @@ font-family: 'Montserrat', sans-serif;
     align-items: center;
 }
 .logo-head{
-    font-size: 38px;
+    font-size: 35px;
     text-transform: uppercase;
     font-weight: 200;
+    margin-left: -445px;
 }
 .logo-head span{
     font-weight: 500;
